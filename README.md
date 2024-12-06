@@ -60,3 +60,12 @@ Las contribuciones son bienvenidas. Si encuentras errores o tienes ideas para me
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
 
+---
+
+## 📫 Contacto
+- **Email:** [adrianmoralesariascontacto@gmail.com](mailto:adrianmoralesariascontacto@gmail.com)
+- **GitHub:** [github.com/AdrianMoralesArias](https://github.com/AdrianMoralesArias)
+- **LinkedIn:** [linkedin.com/in/AdrianMoralesArias](https://www.linkedin.com/in/adrian-morales-arias-3593b733b/)
+
+---
+
