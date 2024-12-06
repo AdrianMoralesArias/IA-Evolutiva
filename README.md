@@ -49,8 +49,9 @@ Puedes modificar estos parámetros en el código:
 5. **Repetición:** El proceso continúa durante múltiples generaciones, mejorando el comportamiento de los puntos.
 
 ## Capturas de pantalla
-![image](https://github.com/user-attachments/assets/050c0aab-5e28-46b8-9edb-a77d1141c4e5)
-![image](https://github.com/user-attachments/assets/64f65c08-22ee-4cf2-9857-5b5cf9fc0b1c)
+![image](https://github.com/user-attachments/assets/e7b2cef0-7244-4e42-93af-0f26b911226d)
+![image](https://github.com/user-attachments/assets/ed411299-d5c1-40dd-8122-effdc573bee2)
+
 
 
 ## Contribuciones
