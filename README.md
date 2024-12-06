@@ -1,6 +1,6 @@
 # IA Evolutiva en Pygame
 
-Este proyecto implementa una inteligencia artificial (IA) evolutiva utilizando Pygame. La IA consiste en puntos verdes que aprenden a evitar obstáculos (puntos rojos) y los bordes de la ventana, mientras intentan alcanzar un objetivo (punto amarillo). El sistema utiliza un algoritmo genético para mejorar el comportamiento de los puntos a través de generaciones.
+Este proyecto implementa una inteligencia artificial (IA) evolutiva utilizando Pygame. La IA consiste en puntos verdes que aprenden a evitar obstáculos y los bordes de la ventana, mientras intentan alcanzar un objetivo (punto amarillo). El sistema utiliza un algoritmo genético para mejorar el comportamiento de los puntos a través de generaciones.
 
 ## Características
 - **Simulación visual:** Cada punto sigue una trayectoria basada en un ADN predefinido.
@@ -20,9 +20,9 @@ Este proyecto implementa una inteligencia artificial (IA) evolutiva utilizando P
    ```
 
 ## Cómo ejecutar
-1. Ejecuta el script `ia_evolutiva_pygame.py`:
+1. Ejecuta el script `main.py`:
    ```bash
-   python ia_evolutiva_pygame.py
+   main.py
    ```
 2. Observa cómo los puntos evolucionan para alcanzar el objetivo mientras evitan los obstáculos.
 
